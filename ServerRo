@@ -1,302 +1,314 @@
 
-Code:
-#EXTINF:0,tvr 1
-http://iptv.ddns.info:1578/live/bitrate/bitrate/1.ts
-#EXTINF:0,tvr 2
-http://iptv.ddns.info:1578/live/bitrate/bitrate/2.ts
-#EXTINF:0,Protv
-http://iptv.ddns.info:1578/live/bitrate/bitrate/3.ts
-#EXTINF:0,Antena 1
-http://iptv.ddns.info:1578/live/bitrate/bitrate/4.ts
-#EXTINF:0,HBO
-http://iptv.ddns.info:1578/live/bitrate/bitrate/5.ts
-#EXTINF:0,Prima TV
-http://iptv.ddns.info:1578/live/bitrate/bitrate/6.ts
-#EXTINF:0,National Tv
-http://iptv.ddns.info:1578/live/bitrate/bitrate/7.ts
-#EXTINF:0,Kanal D
-http://iptv.ddns.info:1578/live/bitrate/bitrate/8.ts
-#EXTINF:0,Tv 1000
-http://iptv.ddns.info:1578/live/bitrate/bitrate/9.ts
-#EXTINF:0,Viasat Nature
-http://iptv.ddns.info:1578/live/bitrate/bitrate/17.ts
-#EXTINF:0,Viasat Explore
-http://iptv.ddns.info:1578/live/bitrate/bitrate/18.ts
-#EXTINF:0,Tv Paprika
-http://iptv.ddns.info:1578/live/bitrate/bitrate/20.ts
-#EXTINF:0,Viasat History
-http://iptv.ddns.info:1578/live/bitrate/bitrate/16.ts
-#EXTINF:0,Digi World
-http://iptv.ddns.info:1578/live/bitrate/bitrate/11.ts
-#EXTINF:0,Digi Life
-http://iptv.ddns.info:1578/live/bitrate/bitrate/10.ts
-#EXTINF:0,Digi Animal World
-http://iptv.ddns.info:1578/live/bitrate/bitrate/12.ts
-#EXTINF:0,National Geographic
-http://iptv.ddns.info:1578/live/bitrate/bitrate/14.ts
-#EXTINF:0,Travel Channel
+			
 	
-Old 23-01-2016, 14:50	  #8
-kall
+«•»World-Satellite Forum«•»	 
+
+		
+
+		
+		
+		
+
+
+
+Home	Today's Posts	My Threads	My Replies	Contacts	Private Messages	Who's Online
+Go Back	 	«•»World-Satellite Forum«•» > «•»IPTV SECTION«•» > IPTV PER COUNTRYES > Romania IPTV
+Reload this Page Romanian IPTV Channels
+Welcome, killtox.
+You last visited: Today at 00:58
+Private Messages: Unread 0, Total 0. 
+User CP	FAQ	Invite Friends	Community 	Calendar	Quick Links 	Log Out
+
+Reply	
+Page 15 of 15	« First	<	5	11	12	13	14	15	
+		
+ 
+LinkBack 	Thread Tools 
+		
+		
+Old 19-05-2019, 23:06	  #141
+iyikosan
 
  
-kall's Avatar
+iyikosan's Avatar
  
 MODERATOR
-Join Date: Aug 2010
-Location: Bermuda-Triangle
-Posts: 23,645
-Thanks: 12,668
-Thanked 30,458 Times in 12,058 Posts
+Join Date: Jun 2016
+Posts: 6,218
+Thanks: 42
+Thanked 14,520 Times in 2,499 Posts
 Users Flag!
-Default Re: Romania IPTV Channels
+Default Re: Romanian IPTV Channels
 Code:
-#EXTM3U
-#EXTINF:-1, Digi Sport 1
-http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi Sport 2
-http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi Sport 3
-http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi Sport 4
-http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Eurosport
-http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Eurosport 2
-http://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Tvr 1
-http://82.76.249.81/digiedge2/tvr1ehq/index.m3u8?is=24&src=digi-online.ro&t=0000000000000000000000000000000
-#EXTINF:-1, Tvr 2
-http://82.76.249.81/digiedge2/tvr2ehq/index.m3u8?is=38&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Tv 1000
-http://82.76.249.81/digiedge2/tv1000ehq/index.m3u8?is=43&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi Film (Test)
-http://82.76.252.26/tc/7/7hq/index.m3u8
-#EXTINF:-1, Digi Life
-http://82.76.249.81/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi World
-http://82.76.249.81/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi Animal World
-http://82.76.249.81/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Nat Geo Wild
-http://82.76.249.81/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, National Geographic
-http://82.76.249.81/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, History Channel
-http://82.76.249.81/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Viasat History
-http://82.76.249.81/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Viasat Nature
-______________
-
-WaRp63 is offline Report Post  	Reply With Quote Thanks
-		
-The Following 7 Users Say Thank You to WaRp63 For This Useful Post:	
-Angelin1984 (24-02-2017), csibalo (16-01-2016), kall (15-01-2016), luckas (15-01-2016), MAR (15-01-2016), otti3012 (14-10-2017), vlad33 (12-10-2016)
-		
-Old 23-01-2016, 14:50	  #8
-kall
-
- 
-kall's Avatar
- 
-MODERATOR
-Join Date: Aug 2010
-Location: Bermuda-Triangle
-Posts: 23,645
-Thanks: 12,668
-Thanked 30,458 Times in 12,058 Posts
-Users Flag!
-Default Re: Romania IPTV Channels
-Code:
-#EXTM3U
-#EXTINF:-1, Digi Sport 1
-http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi Sport 2
-http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi Sport 3
-http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi Sport 4
-http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Eurosport
-http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Eurosport 2
-http://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Tvr 1
-http://82.76.249.81/digiedge2/tvr1ehq/index.m3u8?is=24&src=digi-online.ro&t=0000000000000000000000000000000
-#EXTINF:-1, Tvr 2
-http://82.76.249.81/digiedge2/tvr2ehq/index.m3u8?is=38&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Tv 1000
-http://82.76.249.81/digiedge2/tv1000ehq/index.m3u8?is=43&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi Film (Test)
-http://82.76.252.26/tc/7/7hq/index.m3u8
-#EXTINF:-1, Digi Life
-http://82.76.249.81/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi World
-http://82.76.249.81/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi Animal World
-http://82.76.249.81/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Nat Geo Wild
-http://82.76.249.81/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, National Geographic
-http://82.76.249.81/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, History Channel
-http://82.76.249.81/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Viasat History
-http://82.76.249.81/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Viasat Nature
-http://82.76.249.81/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Viasat Explore
-http://82.76.249.81/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Travel Channel
-http://82.76.249.81/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Tv Paprika
-http://82.76.249.81/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Hit Music Channel
-http://82.76.249.81/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Music Channel
-http://82.76.249.81/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Kiss Tv
-http://82.76.249.81/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Utv
-http://82.76.249.77/utvedge/utvlive/index.m3u8
-#EXTINF:-1, Minimax
-http://82.76.249.81/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Megamax
-http://82.76.249.81/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Nickelodeon
-http://82.76.249.81/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Disney Junior
-http://82.76.249.81/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Disney Channel
-http://82.76.249.81/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, B1 Tv
-http://82.76.249.81/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Realitatea Tv
-http://82.76.249.81/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Romania Tv
-http://82.76.249.81/digiedge2/romaniatvehq/index.m3u8?is=27&src=digi-online.ro&t=00000000000000000000000000000000
-__________________
-
-kall is offline Report Post  	Reply With Quote Thanks
-		
-The Following 6 Users Say Thank You to kall For This Useful Post:	
-fredolin (23-01-2016), konstantine (23-01-2016), marin (23-01-2016), otti3012 (14-10-2017), vlad33 (12-10-2016), vova-64 (23-01-2016)
-		
-Old 24-01-2016, 09:00	  #9
-kall
-
- 
-kall's Avatar
- 
-MODERATOR
-Join Date: Aug 2010
-Location: Bermuda-Triangle
-Posts: 23,645
-Thanks: 12,668
-Thanked 30,458 Times in 12,058 Posts
-Users Flag!
-Default Re: Romania IPTV Channels
-Code:
-#EXTINF:-1,Look Tv
-http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialook/playlist.m3u8
-#EXTINF:-1,Look Plus
-http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialive/playlist.m3u8
-#EXTINF:-1,Tvr 1
-http://178.21.120.198:1935/live3/_definst_/mp4:tvr1/playlist.m3u8
-#EXTINF:-1,Tvr 2
-http://178.21.120.198:1935/live3/_definst_/mp4:tvr2/playlist.m3u8
-#EXTINF:-1,Kanal D
-http://178.21.120.198:1935/live3/_definst_/mp4:kanald/playlist.m3u8
-#EXTINF:-1,National Tv
-http://178.21.120.198:1935/live3/_definst_/mp4:nationaltv/playlist.m3u8
-#EXTINF:-1,Tv H
-http://178.21.120.198:1935/live3/_definst_/mp4:tvh/playlist.m3u8
-#EXTINF:-1,Neptun Tv
-http://178.21.120.198:1935/live3/_definst_/mp4:neptuntv/playlist.m3u8
-#EXTINF:-1,Tv 1000
-http://178.21.120.198:1935/live3/_definst_/mp4:tv1000/playlist.m3u8
-#EXTINF:-1,Axn
-http://178.21.120.198:1935/live3/_definst_/mp4:axn/playlist.m3u8
-#EXTINF:-1,Axn White
-http://178.21.120.198:1935/live3/_definst_/mp4:axncrime/playlist.m3u8
-#EXTINF:-1,Axn Black
-http://178.21.120.198:1935/live3/_definst_/mp4:axnscifi/playlist.m3u8
-#EXTINF:-1,Axn Spin
-http://178.21.120.198:1935/live3/_definst_/mp4:axnspin/playlist.m3u8
-#EXTINF:-1,Comedy Central
-http://178.21.120.198:1935/live3/_definst_/mp4:comedycentral/playlist.m3u8
-#EXTINF:-1,Bollywood Tv HD
-http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodhd/playlist.m3u8
-#EXTINF:-1,Bollywood Tv
-http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodtv/playlist.m3u8
-#EXTINF:-1,Bollywood Film
-http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodfilm/playlist.m3u8
-#EXTINF:-1,Bollywood Classic
-http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodclasic/playlist.m3u8
-#EXTINF:-1,Film Box Extra
-http://178.21.120.198:1935/live3/_definst_/mp4:filmboxextra/playlist.m3u8
-#EXTINF:-1,Viasat History
-http://178.21.120.198:1935/live3/_definst_/mp4:history/playlist.m3u8
-#EXTINF:-1,Viasat Explore
-http://178.21.120.198:1935/live3/_definst_/mp4:explorer/playlist.m3u8
-#EXTINF:-1,Viasat Nature
-http://178.21.120.198:1935/live3/_definst_/mp4:nature/playlist.m3u8
-#EXTINF:-1,Animal Planet
-http://178.21.120.198:1935/live3/_definst_/mp4:animalplanet/playlist.m3u8
-#EXTINF:-1,Discovery World
-http://178.21.120.198:1935/live3/_definst_/mp4:discoveryworld/playlist.m3u8
-#EXTINF:-1,Discovery Science
-http://178.21.120.198:1935/live3/_definst_/mp4:discoveryscience/playlist.m3u8
-#EXTINF:-1,Travel Channel
-http://178.21.120.198:1935/live3/_definst_/mp4:travelchannel/playlist.m3u8
-#EXTINF:-1,Travel Mix
-http://178.21.120.198:1935/live3/_definst_/mp4:travelmix/playlist.m3u8
-#EXTINF:-1,Hit Music Channel
-http://178.21.120.198:1935/live3/_definst_/mp4:hitmusicch/playlist.m3u8
-#EXTINF:-1,1 Music Channel
-http://178.21.120.198:1935/live3/_definst_/mp4:musicchannel/playlist.m3u8
-#EXTINF:-1,Mooz Dance
-http://178.21.120.198:1935/live3/_definst_/mp4:moozdance/playlist.m3u8
-#EXTINF:-1,Kiss Tv
-http://178.21.120.198:1935/live3/_definst_/mp4:kiss/playlist.m3u8
-#EXTINF:-1,Utv
-http://178.21.120.198:1935/live3/_definst_/mp4:utv/playlist.m3u8
-#EXTINF:-1,N24 Plus
-http://178.21.120.198:1935/live3/_definst_/mp4:n24/playlist.m3u8
-#EXTINF:-1,Tvr Moldova
-http://178.21.120.198:1935/live3/_definst_/mp4:tvrmoldova/playlist.m3u8
-#EXTINF:-1,Tvr 3
-http://178.21.120.198:1935/live3/_definst_/mp4:tvr3/playlist.m3u8
-#EXTINF:-1,B1 Tv
-http://178.21.120.198:1935/live3/_definst_/mp4:b1/playlist.m3u8
-#EXTINF:-1,Nasul Tv
-http://178.21.120.198:1935/live3/_definst_/mp4:nasultv/playlist.m3u8
-#EXTINF:-1,Digi 24
-http://178.21.120.198:1935/live3/_definst_/mp4:digi24/playlist.m3u8
-#EXTINF:-1,Realitatea Tv
-http://178.21.120.198:1935/live3/_definst_/mp4:realitatea/playlist.m3u8
-#EXTINF:-1,Romania Tv
-http://178.21.120.198:1935/live3/_definst_/mp4:rtv/playlist.m3u8
-#EXTINF:-1,Publika Tv
-http://178.21.120.198:1935/live3/_definst_/mp4:publikatv/playlist.m3u8
-#EXTINF:-1,Tv City
-http://178.21.120.198:1935/live3/_definst_/mp4:citytv/playlist.m3u8
-#EXTINF:-1,Tvr Cluj
-http://178.21.120.198:1935/live3/_definst_/mp4:tvrcluj/playlist.m3u8
-#EXTINF:-1,Tvr Iasi
-http://178.21.120.198:1935/live3/_definst_/mp4:tvriasi/playlist.m3u8
-#EXTINF:-1,Tvr Tg. Mures
-http://178.21.120.198:1935/live3/_definst_/mp4:tvrmures/playlist.m3u8
-#EXTINF:-1,Tvr Craiova
-http://178.21.120.198:1935/live3/_definst_/mp4:tvrcraiova/playlist.m3u8
-#EXTINF:-1,Tvr Timisoara
-http://178.21.120.198:1935/live3/_definst_/mp4:tvrtimisoara/playlist.m3u8
-#EXTINF:-1,Fashion Tv
-http://178.21.120.198:1935/live3/_definst_/mp4:fashiontv/playlist.m3u8
-#EXTINF:-1,France 24
-http://178.21.120.198:1935/live3/_definst_/mp4:france24/playlist.m3u8
-#EXTINF:-1,Tv 5
-http://178.21.120.198:1935/live3/_definst_/mp4:tv5/playlist.m3u8
-#EXTINF:-1,Dw
-http://178.21.120.198:1935/live3/_definst_/mp4:dw/playlist.m3u8
+#EXTINF:-1,###### ROMANIA VIP ######
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213604
+#EXTINF:-1,MY: Astro Arena [VIP]
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/141646
+#EXTINF:-1,RO: Antena 3 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/155448
+#EXTINF:-1,RO: AXN HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/90209
+#EXTINF:-1,RO: AXN Spin
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/211001
+#EXTINF:-1,RO: Balkanika
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/211024
+#EXTINF:-1,RO: Boolywood HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/211039
+#EXTINF:-1,RO: CBS Reality
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/207650
+#EXTINF:-1,RO: Comedy Central
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/211003
+#EXTINF:-1,RO: Da Vinci Learning
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/112916
+#EXTINF:-1,RO: Digi Sport 2 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65871
+#EXTINF:-1,RO: Digi Sport 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210974
+#EXTINF:-1,RO: Digi Sport 3 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210975
+#EXTINF:-1,RO: Discovery Showcase HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/112928
+#EXTINF:-1,RO: Diva
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/211004
+#EXTINF:-1,RO: Extreme Sport
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210985
+#EXTINF:-1,RO: Fashion TV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208959
+#EXTINF:-1,RO: Film Box
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210991
+#EXTINF:-1,RO: Film Box Extra HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210992
+#EXTINF:-1,RO: Film Mania
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208960
+#EXTINF:-1,RO: Filmbox Family
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210994
+#EXTINF:-1,RO: FilmBox Plus
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210995
+#EXTINF:-1,RO: FilmBox Premium
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/112952
+#EXTINF:-1,RO: Fix and Foxi
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213520
+#EXTINF:-1,RO: Hit Music
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/133932
+#EXTINF:-1,RO: Impact TV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208962
+#EXTINF:-1,RO: Investigation Discovery
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/211028
+#EXTINF:-1,RO: JimJam
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208963
+#EXTINF:-1,RO: MTV Dance
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/112977
+#EXTINF:-1,RO: MTV Hits
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/112978
+#EXTINF:-1,RO: Music Channel
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/211040
+#EXTINF:-1,RO: NAT GEO HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75035
+#EXTINF:-1,RO: Nick Junior
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/118377
+#EXTINF:-1,RO: Rock TV FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213516
+#EXTINF:-1,RO: Somax TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/112998
+#EXTINF:-1,RO: Sundance TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/145812
+#EXTINF:-1,RO: TELEKOM SPORT 2 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62978
+#EXTINF:-1,RO: The Voice
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/211041
+#EXTINF:-1,RO: TVH
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/207612
+#EXTINF:-1,RO: TVR 3 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62983
+#EXTINF:-1,RO: TVR Cluj
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/207679
+#EXTINF:-1,RO: TVR Craiova
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/207680
+#EXTINF:-1,RO: TVR Iasi
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/207681
+#EXTINF:-1,RO: TVR Moldova
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213514
+#EXTINF:-1,RO: TVR Tg Mures
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/207682
+#EXTINF:-1,RO: TVR Timisoara
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/207683
+#EXTINF:-1,RO: VH1
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/142471
+#EXTINF:-1,RO: VH1 Classic
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213521
+#EXTINF:-1,RO: Viasat HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/211031
+#EXTINF:-1,###### ROMANIA ######
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213603
+#EXTINF:-1,RO: 1 Music Channel
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/184564
+#EXTINF:-1,RO: Acasa HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209570
+#EXTINF:-1,RO: Agro TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75025
+#EXTINF:-1,RO: AMC
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63031
+#EXTINF:-1,RO: ANIMAL PLANET HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63030
+#EXTINF:-1,RO: Antena 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/155447
+#EXTINF:-1,RO: Antena Stars HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/134500
+#EXTINF:-1,RO: Auto Motor Sport FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/207647
+#EXTINF:-1,RO: AXN BLACK
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/112894
+#EXTINF:-1,RO: AXN White HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/90210
+#EXTINF:-1,RO: B1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98558
+#EXTINF:-1,RO: BBC Earth HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/112899
+#EXTINF:-1,RO: Boomerang
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63029
+#EXTINF:-1,RO: Cartoon Network
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63027
+#EXTINF:-1,RO: Cinemax 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63026
+#EXTINF:-1,RO: Cinemax HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63024
+#EXTINF:-1,RO: DIBI TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62992
+#EXTINF:-1,RO: Digi 24 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63016
+#EXTINF:-1,RO: Digi ANIMAL WORLD HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63015
+#EXTINF:-1,RO: Digi Film NOW HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/155777
+#EXTINF:-1,RO: Digi Life
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63013
+#EXTINF:-1,RO: Digi Sport 1 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210972
+#EXTINF:-1,RO: Digi Sport 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65872
+#EXTINF:-1,RO: Digi Sport 3 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65870
+#EXTINF:-1,RO: DIGI SPORT 4 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/110982
+#EXTINF:-1,RO: Digi Sport 4 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210977
+#EXTINF:-1,RO: Digi WORLD HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63012
+#EXTINF:-1,RO: Discovery Channel
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63011
+#EXTINF:-1,RO: Discovery Science HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63010
+#EXTINF:-1,RO: Disney Channel
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63009
+#EXTINF:-1,RO: Disney Junior
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63008
+#EXTINF:-1,RO: DTX
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/142454
+#EXTINF:-1,RO: Etno HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/156195
+#EXTINF:-1,RO: EUROSPORT 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/145815
+#EXTINF:-1,RO: EUROSPORT 2 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62973
+#EXTINF:-1,RO: FAVORIT TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/90218
+#EXTINF:-1,RO: Film Cafe
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160927
+#EXTINF:-1,RO: Fishing & Hunting HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75030
+#EXTINF:-1,RO: Food Network HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/112954
+#EXTINF:-1,RO: HAPPY CHANNEL HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98561
+#EXTINF:-1,RO: HBO 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63006
+#EXTINF:-1,RO: HBO 3 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63005
+#EXTINF:-1,RO: HBO HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63004
+#EXTINF:-1,RO: History Channel
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63001
+#EXTINF:-1,RO: ***** D HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/155780
+#EXTINF:-1,RO: KISS TV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62989
+#EXTINF:-1,RO: Look Plus HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75031
+#EXTINF:-1,RO: MegaMax HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75033
+#EXTINF:-1,RO: Minimax
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/156199
+#EXTINF:-1,RO: MTV Rocks
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/211781
+#EXTINF:-1,RO: Music 1 Channel
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/192689
+#EXTINF:-1,RO: N 24 plus
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206450
+#EXTINF:-1,RO: NAT GEO Wild HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63000
+#EXTINF:-1,RO: National TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/66907
+#EXTINF:-1,RO: Neptun TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75036
+#EXTINF:-1,RO: Nickelodeon HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62996
+#EXTINF:-1,RO: Paramount Channel
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62988
+#EXTINF:-1,RO: Pink Romance
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/211782
+#EXTINF:-1,RO: Prima Cool
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75037
+#EXTINF:-1,RO: PRO 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75024
+#EXTINF:-1,RO: Pro Cinema HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62995
+#EXTINF:-1,RO: PRO TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/66902
+#EXTINF:-1,RO: PRO X HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62972
+#EXTINF:-1,RO: Realite TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/184575
+#EXTINF:-1,RO: Romania TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/155782
+#EXTINF:-1,RO: Taraf HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/66899
+#EXTINF:-1,RO: Tele Moldova Plus
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98569
+#EXTINF:-1,RO: TELEKOM SPORT 1 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62979
+#EXTINF:-1,RO: TELEKOM SPORT 3 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/89362
+#EXTINF:-1,RO: TELEKOM SPORT 4 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/113005
+#EXTINF:-1,RO: The Fishing & Hunting
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/124898
+#EXTINF:-1,RO: TLC
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/113010
+#EXTINF:-1,RO: TNT
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/90215
+#EXTINF:-1,RO: Travel Channel FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/113012
+#EXTINF:-1,RO: TRINITAS TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75039
+#EXTINF:-1,RO: TV 1000 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62993
+#EXTINF:-1,RO: TV Paprika
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/155783
+#EXTINF:-1,RO: TV5 *****
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/90214
+#EXTINF:-1,RO: TVR 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/146493
+#EXTINF:-1,RO: TVR 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/155784
+#EXTINF:-1,RO: TVR International
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208976
+#EXTINF:-1,RO: UTV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75040
+#EXTINF:-1,RO: VIASAT EXPLORER
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98571
+#EXTINF:-1,RO: Viasat History FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63003
+#EXTINF:-1,RO: Viasat Nature
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/155785
+#EXTINF:-1,RO: ZU TV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/113024
